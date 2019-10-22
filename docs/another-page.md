@@ -1,7 +1,5 @@
 # Markdown test
 
-{docsify-updated}
-
 ## Tasks
 
 - [x] Task
