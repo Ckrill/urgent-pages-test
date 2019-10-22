@@ -5,7 +5,7 @@
 - [x] Task
 - [x] Task 2
 - [x] Task 3
-- [] Task 4
+- [ ] Task 4
 
 ## Heading
 
