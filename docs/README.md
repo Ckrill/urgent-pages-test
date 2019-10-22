@@ -3,6 +3,8 @@
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati beatae quaerat vitae praesentium autem dolore illum accusamus, enim dignissimos repudiandae debitis provident, consequatur quia similique quae sapiente non hic culpa.
 Quos expedita magni quisquam error nobis suscipit, perferendis delectus provident repudiandae architecto maxime libero sit reiciendis eligendi illo omnis eum, tempore voluptatibus eaque. Unde, praesentium accusantium architecto voluptas aut libero?
 
+[Another page](/another-page)
+
 ## TODO
 
 - [ ] Accessibility
@@ -41,7 +43,7 @@ Molestiae atque alias ullam dolor nesciunt officia exercitationem eius, vero tem
 
 ### Documentation
 
-https://ogp.me/
+- https://ogp.me/
 
 ## Browser compability
 
