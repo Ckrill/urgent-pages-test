@@ -56,6 +56,9 @@ Molestiae atque alias ullam dolor nesciunt officia exercitationem eius, vero tem
 
 ### Tools
 
-- Test structured data (Schema): https://search.google.com/structured-data/testing-tool
+- Lighthouse test, find it in Chromes developer tools under audit.
+- Run various remote browsers: https://www.browserstack.com/
 - Validate markup: https://validator.w3.org/
+- Test structured data (Schema): https://search.google.com/structured-data/testing-tool
+- Holistic website test: https://gtmetrix.com/
 - Color contrast validator: https://color.a11y.com/
