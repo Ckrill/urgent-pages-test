@@ -20,7 +20,7 @@ Unde ullam maxime qui, ipsum laboriosam quo debitis libero explicabo, veniam sin
 
 ### Links
 
-- https://www.wuhcag.com/wcag-checklist/ <br/>
+- https://www.wuhcag.com/wcag-checklist/
 - https://www.levelaccess.com/wcag-2-1-exploring-new-success-criteria/
 
 ## Social media

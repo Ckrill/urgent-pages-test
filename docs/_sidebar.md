@@ -1,0 +1,2 @@
+- [Home](/)
+- [Another page](another-page.md)

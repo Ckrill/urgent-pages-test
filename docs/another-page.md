@@ -1,5 +1,7 @@
 # Markdown test
 
+{docsify-updated}
+
 ## Tasks
 
 - [x] Task
@@ -22,3 +24,10 @@ if (strong) {
   return true;
 }
 ```
+
+|           | Chrome | Firefox | Safari | Edge |
+| --------- | :----: | :-----: | :----: | :--: |
+| Feature 1 |   x    |    x    |   o    |  o   |
+| Feature 2 |   x    |    x    |   x    |  o   |
+| Feature 3 |   x    |    x    |   x    |  x   |
+| Feature 4 |   x    |    x    |   o    |  o   |
