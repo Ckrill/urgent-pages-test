@@ -1,2 +1,2 @@
-- [Home](/)
-- [Another page](another-page.md)
+- [Home](/docs/)
+- [Another page](/docs/another-page.md)
