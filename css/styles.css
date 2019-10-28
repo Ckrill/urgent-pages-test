@@ -1,0 +1,4 @@
+/* Hide NetlifyCMS titles */
+[id*='title-'] {
+  display: none;
+}
