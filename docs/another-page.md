@@ -1,3 +1,6 @@
+---
+title: Markdown Test
+---
 # Markdown test
 
 ## Tasks
