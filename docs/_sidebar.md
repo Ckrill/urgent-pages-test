@@ -1,5 +1,5 @@
 ---
 title: Sidebar
 ---
-- [Home](/docs/)
-- [Another page](/docs/another-page.md)
+- [Home](/)
+- [Another page](/another-page.md)
