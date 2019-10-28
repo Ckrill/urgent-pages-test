@@ -25,6 +25,7 @@ collections:
     label: 'Test' # Used in the UI
     folder: 'docs' # The path to the folder where the documents are stored
     delete: false
+    format: md
     frontmatter_delimiter: '~~~'
     slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -34,6 +35,7 @@ collections:
     label: 'Test2' # Used in the UI
     folder: 'docs' # The path to the folder where the documents are stored
     delete: false
+    format: md
     frontmatter_delimiter: ['[comment]: # (', ')']
     slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
