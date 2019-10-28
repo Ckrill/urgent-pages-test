@@ -12,7 +12,6 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'blog' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-collections:
   - name: 'sidebar' # Used in routes, e.g., /admin/collections/blog
     label: 'Sidebar' # Used in the UI
     folder: 'docs/sidebar' # The path to the folder where the documents are stored
