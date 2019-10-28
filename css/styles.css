@@ -2,3 +2,12 @@
 [id*='title-'] {
   display: none;
 }
+
+#main hr:first-of-type,
+.sidebar-nav hr:first-of-type {
+  display: none;
+}
+
+[href*='title-'] {
+  display: none;
+}
