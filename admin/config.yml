@@ -8,6 +8,8 @@ collections:
     label: 'Pages' # Used in the UI
     folder: 'docs' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    format: 'yaml-frontmatter'
+    frontmatter_delimiter: ['[comment]: # (', ')'] # This is an ugly hack, basically it comments out the frontmatter to make sure Docsify does not show it
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'blog' }
@@ -17,32 +19,8 @@ collections:
     label: 'Sidebar' # Used in the UI
     folder: 'docs/sidebar' # The path to the folder where the documents are stored
     delete: false
-    slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-
-  - name: 'test' # Used in routes, e.g., /admin/collections/blog
-    label: 'Test' # Used in the UI
-    folder: 'docs/test' # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    delete: false
-    extension: 'md'
     format: 'yaml-frontmatter'
-    frontmatter_delimiter: '~~~'
-    slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-
-  - name: 'test2' # Used in routes, e.g., /admin/collections/blog
-    label: 'Test2' # Used in the UI
-    folder: 'docs/test2' # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    delete: false
-    extension: 'md'
-    format: 'yaml-frontmatter'
-    frontmatter_delimiter: ['[comment]: # (', ')']
+    frontmatter_delimiter: ['[comment]: # (', ')'] # This is an ugly hack, basically it comments out the frontmatter to make sure Docsify does not show it
     slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: 'Title', name: 'title', widget: 'string' }
