@@ -1,14 +1,14 @@
----
-title: Markdown Test
----
+[comment]: # (
+title: Markdown test
+)
 # Markdown test
 
 ## Tasks
 
-- [x] Task
-- [x] Task 2
-- [x] Task 3
-- [ ] Task 4
+* Task
+* Task 2
+* Task 3
+* Task 4
 
 ## Heading
 
@@ -27,8 +27,12 @@ if (strong) {
 ```
 
 |           | Chrome | Firefox | Safari | Edge |
-| --------- | :----: | :-----: | :----: | :--: |
-| Feature 1 |   x    |    x    |   o    |  o   |
-| Feature 2 |   x    |    x    |   x    |  o   |
-| Feature 3 |   x    |    x    |   x    |  x   |
-| Feature 4 |   x    |    x    |   o    |  o   |
+| --------- | ------ | ------- | ------ | ---- |
+| Feature 1 | x      | x       | o      | o    |
+| Feature 2 | x      | x       | x      | o    |
+| Feature 3 | x      | x       | x      | x    |
+| Feature 4 | x      | x       | o      | o    |
+
+test
+
+![](/images/uploads/tikka-masala.png)
