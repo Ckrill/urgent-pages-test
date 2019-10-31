@@ -33,6 +33,9 @@ if (strong) {
 | Feature 3 | x      | x       | x      | x    |
 | Feature 4 | x      | x       | o      | o    |
 
-test
+test1
 
 ![](/images/uploads/tikka-masala.png)
+test2
+
+![](/docs/images/uploads/tikka-masala.png)
